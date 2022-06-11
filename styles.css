@@ -1,0 +1,46 @@
+ol li a {
+	color: #7d76cf;
+}
+
+div {
+	color: blue;
+}
+
+#login {
+	color: #1fed26;
+	display: block;
+	border: 10px solid black;
+	margin: 10px 5px 2px 1px;
+	padding: 10px;
+	width: 50vh;
+	height: 10vw;
+}
+
+.costam {
+	color: #c00afc;
+}
+
+#jakisdiv .cos p {
+	
+}
+
+#jakisdiv #jakiselement {
+}
+
+.klasa .jakiestam {
+	
+}
+
+input[type="submit"] {
+	background: red;
+}
+
+#testowy-div {
+	font-size: 28px;
+	font-family: 'Fascinate', cursive;
+	transition: color 1s;
+}
+
+#testowy-div:hover {
+	color: yellow;
+}
